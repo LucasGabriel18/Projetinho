@@ -1,2 +1,2 @@
-# TESTANDO_GIT
- Primeiro codigo com GitHub
+# Projeto Férias de inverno
+ Primeiro codigo com GitHub dedicado para a prática
