@@ -7,11 +7,16 @@
 .colA {
     height: 100%;
     width: 50%;
-    background: cadetblue;
+    background: rgb(3, 40, 41);
 }
 
 .colB {
     height: 100%;
     width: 50%;
     background: rgb(27, 47, 48);
+}
+
+.colB img {
+    width: 100%;
+    height: 100%;
 }
