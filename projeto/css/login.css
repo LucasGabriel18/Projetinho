@@ -1,0 +1,17 @@
+.linha {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+}
+
+.colA {
+    height: 100%;
+    width: 50%;
+    background: cadetblue;
+}
+
+.colB {
+    height: 100%;
+    width: 50%;
+    background: rgb(27, 47, 48);
+}
