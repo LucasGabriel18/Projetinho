@@ -9,22 +9,15 @@
 </head>
 <body>
     <div class="container">
-        <h1 style="text-align: center; font-size: 50px; font-family:'Times New Roman', Times, serif;">TITULO DO SITE</h1>
-        <div class="linha">
-            <div class="colA">
-                <h2 style="text-align: center; justify-content: center; font-size: 25px; font-family:'Times New Roman', Times, serif;">LOGIN</h2>
-                <form action="php/verify.php" method="post">
-                    <strong><label for="e-mail">Digite o seu e-mail:</label></strong>
-                    <input type="text" name="email" id="email" autofocus required placeholder="Digite o seu melhor e-mail"><br><br>
-                    <strong><label for="senha">Digite sua senha:</label></strong> 
-                    <input type="password" name="senha" id="senha" required placeholder="Coloque um senha forte"><br><br>
-                    <input type="submit" value="entrar">
-                </form>
-            </div>
-            <div class="colB">
-                <img src="imagens/ft-direita.jpg" alt="foto">
-            </div>
-        </div>
+            <h2 style="text-align: center; justify-content: center; font-size: 25px; font-family:'Times New Roman', Times, serif;">LOGIN</h2>
+            <form action="php/verify.php" method="post">
+                <strong><label for="email" id="labelEmail">Digite o seu e-mail:</label></strong>
+                <input type="text" name="email" id="email" name="email" autofocus required placeholder="Digite o seu melhor e-mail"><br>
+                <strong><label for="password" id="labelPassword">Digite sua senha:</label></strong> 
+                <input type="password" name="senha" id="senha" required placeholder="Coloque um senha forte"><br>
+                <button type="submit" id="button">Logar</button>
+            </form>
+            <script src="js/login.js"></script>
     </div>
 </body>
 </html>
