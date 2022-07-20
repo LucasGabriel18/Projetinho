@@ -22,6 +22,7 @@
                     <strong><label for="password" id="labelPassword">Digite sua senha:</label></strong>
                     <i class="fa fa-lock icon"></i> 
                     <input type="password" name="senha" id="senha" required><br>
+                    <a href="http://localhost/GitHub/TESTANDO_GIT/projeto/php/home.php">home</a>
                     <button type="submit" id="button">Logar</button>
                 </div>
             </form>
