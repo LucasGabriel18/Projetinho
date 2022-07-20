@@ -43,7 +43,7 @@
             <div class="card">                
                 <img style="height: 64px; width: 64px;" src="../imagens/adicionar.png" alt="foto">
                 <br>
-                ADICIONA INFORMAÇÕES
+                ADICIONA INFORMAÇÕES                
             </div>
             <div class="card">                
                 <img style="height: 64px; width: 64px;" src="../imagens/alterar.png" alt="foto">
