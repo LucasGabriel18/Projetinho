@@ -42,14 +42,17 @@
         <div class="cards">
             <div class="card">                
                 <img style="height: 64px; width: 64px;" src="../imagens/adicionar.png" alt="foto">
+                <br>
                 ADICIONA INFORMAÇÕES
             </div>
             <div class="card">                
                 <img style="height: 64px; width: 64px;" src="../imagens/alterar.png" alt="foto">
+                <br>
                 ALTERAR INFORMAÇÕES
             </div>
             <div class="card">            
                 <img style="height: 64px; width: 64px;" src="../imagens/consultar.png" alt="foto">
+                <br>
                 CONSULTAR VEÍCULO
             </div>
         </div>
@@ -58,6 +61,7 @@
         <div class="cards">
             <div class="card">                
                 <img style="height: 64px; width: 64px;" src="../imagens/excluir.png" alt="">
+                <br>
                 EXCLUIR VEÍCULO
             </div>
         </div>
