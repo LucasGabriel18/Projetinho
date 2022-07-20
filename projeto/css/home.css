@@ -139,4 +139,13 @@ header .logo{
     .button {
         margin-top: 20px;
     }
+
+    .cards {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        margin-top: 40px;
+    }
 }
