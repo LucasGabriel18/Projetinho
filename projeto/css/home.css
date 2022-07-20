@@ -5,6 +5,11 @@
     --color-card: #1e212c;
 }
 
+.container {
+    max-width: 830px;
+    margin: auto;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -27,4 +32,24 @@ header .logo{
     width:  75px; 
     height: 70px;
     margin-right: 10px;
+}
+
+.sessao-1 {
+    display: flex;
+}
+
+.cardright h2 {
+    font-size: 43px;
+    color: var(--color-font);
+}
+
+.cardright p {
+    font-size: 20px;
+    color: var(--color-font);
+}
+
+.cardleft img{
+    width: 250px;
+    height: auto;
+    margin-right: 50px;
 }

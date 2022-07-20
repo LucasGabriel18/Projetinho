@@ -6,9 +6,6 @@
   }
   
   :root {
-    --color1: #0d151f;
-    --color2: #141e30;
-    --color3: #243b55;
     --color4: #03e9f4;
     --color5: #fff;
     --color6: rgba(0, 0, 0, 0);
@@ -19,7 +16,7 @@
   }
   
   body {
-    background-image: linear-gradient(var(--color2), var(--color3));
+    background-color: #131416;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -28,7 +25,7 @@
   }
   
   .container {
-    background-color: var(--color1);
+    background-color: #131416;
     color: var(--color5);
     width: 40rem;
     padding: 5rem;
