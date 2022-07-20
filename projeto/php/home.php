@@ -37,5 +37,30 @@
             <a class="button" href="#">Leia nossos Termos</a>
         </div>
     </section>
+    <section class="sessao-2 container">
+        <h2>INFORMAÇÕES</h2>
+        <div class="cards">
+            <div class="card">                
+                <img style="height: 64px; width: 64px;" src="../imagens/adicionar.png" alt="foto">
+                ADICIONA INFORMAÇÕES
+            </div>
+            <div class="card">                
+                <img style="height: 64px; width: 64px;" src="../imagens/alterar.png" alt="foto">
+                ALTERAR INFORMAÇÕES
+            </div>
+            <div class="card">            
+                <img style="height: 64px; width: 64px;" src="../imagens/consultar.png" alt="foto">
+                CONSULTAR VEÍCULO
+            </div>
+        </div>
+    </section>
+    <section class="sessao-3 container">
+        <div class="cards">
+            <div class="card">                
+                <img style="height: 64px; width: 64px;" src="../imagens/excluir.png" alt="">
+                EXCLUIR VEÍCULO
+            </div>
+        </div>
+    </section>
 </body>
 </html>

@@ -56,10 +56,53 @@ header .logo{
     padding: 15px 70px;
     border-radius: 10px;
     outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .cardleft img{
     width: 250px;
     height: auto;
     margin-right: 50px;
+}
+
+.sessao-2 {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sessao-2 h2 {
+    color: var(--color-font);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-card);
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    color: var(--color-font);
+}
+
+.sessao-3 {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
 }
