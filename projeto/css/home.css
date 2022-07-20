@@ -26,6 +26,7 @@ header .logo{
 
 .logo h2{
     color: var(--color-font);
+    font-size: 50px;
 }
 
 .logo img{
@@ -39,13 +40,22 @@ header .logo{
 }
 
 .cardright h2 {
-    font-size: 43px;
+    font-size: 40px;
     color: var(--color-font);
 }
 
 .cardright p {
     font-size: 20px;
     color: var(--color-font);
+}
+
+.button {
+    background-color: var(--color-button);
+    color: var(--color-font);
+    display: inline-block;
+    padding: 15px 70px;
+    border-radius: 10px;
+    outline: none;
 }
 
 .cardleft img{

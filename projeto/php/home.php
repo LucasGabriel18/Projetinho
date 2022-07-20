@@ -15,8 +15,8 @@
             <script src="../js/navbar.js"></script>
             <link rel="stylesheet" href="../css/navbar.css">
             <a href="home.php" class="active">Home</a>
-            <a href="#news">Nossa história</a>
-            <a href="#contact">Suporte</a>
+            <a href="#">Nossa história</a>
+            <a href="#">Suporte</a>
             <a href="index.php">Logout</a>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                 <i class="fa fa-bars"></i>
@@ -34,6 +34,7 @@
         <div class="cardright">
             <h2>Seja Bem-Vindo ao meu site.</h2>
             <p>Aqui você pode cadastrar seu veículo de um forma segura e rápida.</p>
+            <a class="button" href="#">Leia nossos Termos</a>
         </div>
     </section>
 </body>
