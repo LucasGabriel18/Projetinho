@@ -1,6 +1,6 @@
 <?php
 $hostname = "localhost";
-$bancodedados = "site_pratico";
+$bancodedados = "banco_car";
 $usuario = "root";
 $senha = "";
 

@@ -1,3 +1,6 @@
+<?php
+include ('protect.php');
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -17,7 +20,7 @@
             <a href="home.php" class="active">Home</a>
             <a href="#">Nossa história</a>
             <a href="#">Suporte</a>
-            <a href="index.php">Logout</a>
+            <a href="logout.php">Logout</a>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                 <i class="fa fa-bars"></i>
             </a>
